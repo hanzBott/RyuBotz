@@ -5,15 +5,15 @@ return `┏━━━━━━━━━━━━━━━━━━━━
 ┣━━⊱❉ *💰 E-WALLET* ❉⊰━━━✿
 ┃   
 ┣━⊱ *GOPAY*
-┣⊱ 0899 0000 0000
+┣⊱ chat owner
 ┣━━✿ NAMA GOPAY ${ownername}
 ┃
 ┣━⊱ *DANA*
-┣⊱ 0899 0000 0000
+┣⊱ 088223353453
 ┣━━✿ NAMA DANA ${ownername}
 ┃
 ┣━⊱ *PULSA*
-┣⊱ 0899 0000 0000
+┣⊱ 088223353453
 ┣━━✿ NAMA PULSA ${ownername}
 ┃
 ┗━━━━━━━━━━━━━━━━━━━━
